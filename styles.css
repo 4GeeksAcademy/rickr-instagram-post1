@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+.ig-post {
+    height: 800px;
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.post-header {
+    border: dashed red 2px;
+    width: 600px;
+    height: 70px;
+}
+
+.post-image {
+    border: dashed blue 2px;
+    width: 600px;
+    height: 400px;
+}
+
+.post-image > img {
+    height: 100%;
+    width: 100%;
+}
+
+.post-icons {
+    border: dashed green 2px;
+    width: 600px;
+    height: 80px;
+}
+
+.post-text {
+    border: dashed cyan 2px;
+    width: 600px;
+    height: 240px;
+}
